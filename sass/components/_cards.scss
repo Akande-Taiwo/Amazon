@@ -1,0 +1,85 @@
+.cards {
+  width: 300px !important;
+  height: 420px !important;
+}
+
+.card {
+  border-radius: 0 !important;
+  border: none !important;
+}
+
+.smallCard {
+  width: 300px !important;
+  height: 150px !important;
+}
+
+.col-12 {
+  img {
+    width: 300px;
+    height: 230px;
+  }
+}
+
+.dress {
+  width: 250px;
+  height: 380px;
+}
+.results{
+  border: 1px solid gray;
+  width: 100%;
+  padding-left: 40px;
+  padding-top: 10px;
+  margin-top: 15px;
+  border-radius: 8px;
+  
+}
+.price {
+  font-size: 30px;
+  color: black;
+}
+
+a{
+  text-decoration: none !important;
+  color: grey !important;
+}
+.discount{
+  text-decoration: line-through;
+  color: grey;
+}
+.amazoncard{
+  display: flex;
+  align-items: stretch !important;
+}
+.card-img-kit{
+  // height: 20px;
+}
+.Kitchen{
+  height: 230px;
+}
+.climate{
+  margin-bottom: 0 !important;
+  margin-top: 12px;
+}
+.department{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.supplies{
+  padding-left: 5px;
+}
+.min{
+  text-indent: 20px;
+  width: 70px;
+}
+.dollar{
+  position: absolute;
+  left: 20px;
+}
+.money{
+  position: absolute;
+  left: 90px;
+}
+.from{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
